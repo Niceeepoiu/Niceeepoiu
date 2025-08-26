@@ -14,13 +14,9 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/4997/4997543.png" alt="Project" width="32" height="32"> Project
 
-Snake game: https://niceeepoiu.github.io/snake/
-
 blog: The project is currently in development.
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/8140/8140174.png" alt="statistics" width="32" height="32"> GitHub statistics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niceeepoiu)
 
 ![Niceeepoiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niceeepoiu&show_icons=true&theme=default)
 
