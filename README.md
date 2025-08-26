@@ -10,7 +10,7 @@
 - <img src="https://cdn-icons-png.flaticon.com/512/9755/9755739.png" alt="Markdown" width="24" height="24"> Markdown
 - <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="HTML" width="24" height="24"> HTML
 - <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="24" height="24"> CSS
-- <img src="https://cdn-icons-png.flaticon.com/512/15465/15465695.png" alt="Linux" width="24" height="24"> Linux
+- <img src="https://img.icons8.com/?size=256&id=kXuRhjMIeKhk&format=png" alt="Astro" width="28" height="28"> Astro
 - <img src="https://cdn-icons-png.flaticon.com/512/3686/3686918.png" alt="System Switch" width="24" height="24"> System Switch
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/4997/4997543.png" alt="Project" width="32" height="32"> Project
