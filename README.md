@@ -14,7 +14,7 @@
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/4997/4997543.png" alt="Project" width="32" height="32"> Project
 
-blog: The project is currently in development.
+blog: https://niceeepoiu.github.io/
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/8140/8140174.png" alt="statistics" width="32" height="32"> GitHub statistics
 
